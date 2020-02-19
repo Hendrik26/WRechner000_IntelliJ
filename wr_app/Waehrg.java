@@ -1,4 +1,4 @@
-package wr_app; // Murx
+package wr_app;
 
 import wr_app.*;
 
